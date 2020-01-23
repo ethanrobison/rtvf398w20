@@ -1,6 +1,6 @@
 # Cybertext
 
-# Ergodic Literature
+# Ergodic Texts
 
 ## 
 
