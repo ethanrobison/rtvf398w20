@@ -1,23 +1,20 @@
 rm = rm -rf
-level = --slide-level=2
+
 css = style.css
 pres = pres.html
 slides = slides.md
-revealdir = reveal.js
+
+pandoc = pandoc -s -i -t revealjs --mathjax --slide-level=2 -c $(css) -o $(pres) $(slides)
 
 tbdir = $(shell basename `pwd`)-pres
 tgz = $(tbdir).tar.gz
+zip = $(tbdir).zip
+revealdir = reveal.js
 
 all: clean build
 
 build:
-	pandoc -s -i \
-		--mathjax \
-		-t revealjs \
-		$(level) \
-		-c $(css) \
-		-o $(pres) \
-		slides.md
+	$(pandoc)
 
 .PHONY: clean
 
@@ -25,6 +22,7 @@ clean:
 	$(rm) *.html
 	$(rm) $(tbdir)
 	$(rm) $(tgz)
+	$(rm) $(zip)
 
 download_revealjs:
 		wget https://github.com/hakimel/reveal.js/archive/master.tar.gz
@@ -37,10 +35,16 @@ remove_revealjs:
 
 setup: remove_revealjs download_revealjs all
 
-tarball: all
+zip: prepcompressdirs
+	zip $(zip) $(tbdir)
+	$(rm) $(tbdir)
+
+tarball: prepcompressdirs
+	tar -cvzf $(tgz) $(tbdir)
+	$(rm) $(tbdir)
+
+prepcompressdirs: all
 	mkdir $(tbdir)
 	cp $(pres) $(tbdir)
 	cp $(css) $(tbdir)
 	cp -r $(revealdir) $(tbdir)
-	tar -cvzf $(tgz) $(tbdir)
-	$(rm) $(tbdir)
