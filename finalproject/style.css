@@ -1,0 +1,17 @@
+.reveal img {
+	max-height: 12em;
+}
+
+.reveal blockquote {
+	width: 100%;
+	text-align: left;
+}
+
+p { text-align: left; }
+
+span.source-link {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	font-size: 0.3em;
+}
