@@ -1312,4 +1312,140 @@ Nevertheless, I'm still raging over this essay's structure.
 
 Sure, but isn't that kind of his whole point? PLEASEASE
 
+# Anable
 
+> You glance down to check your calendar and suddenly it’s 40 minutes
+> later and there’s only one level left before you jump to the next
+> stage, so you might as well just launch another bird.
+
+What a frustrating take, if the author of the original piece is trying
+to say that these games are "trivial." Not only do I disagree with
+_that_ take, I also disagree with the likely take that the author would
+respond with about them being, iono, evil? Like, is it bad and predatory
+that a game might exist that can suck up 40 minutes of your time and
+catch you off guard? Only if the designers are trying to snipe you or
+steal your dough. We have _The Big Bang Theory_ and pop music and all
+sorts of things that exist to be consumed. That's okay. The broader
+corporate culture that surrounds it is problematic, and I freely admit
+that there is a lot to be said about the proportional distribution of
+casual games within the highly corporatized and predatory field.
+However, I also point out that the author of the quoted piece brings up
+the games themselves, not the people using them for evil. Software isn't
+evil, even if we've so far only found evil uses for it. Except machine
+learning for recidivism. That one might be evil.
+
+> Anderson’s representation of casual games as all-consuming but also as
+> blank spaces neatly summarizes the way critics seem unable (or
+> unwilling) to attach meaning to casual games beyond their popularity
+> and impact on the video game industry.
+
+Oh, yeah. You said it, fam.
+
+> According to him, our play is both incidental and taking over our lives.
+
+Right???? Ugh.
+
+> ...but casual games are also dismissed as culturally insignificant
+> because they are so strongly associated with women players.
+
+Right, once again we use the thing as a target for our hatred, but
+really we just hate the people we associate with the thing.
+
+> ...it is also true that the cultural meanings generated through and
+> around casual games cannot be completely divorced from the genre’s
+> past and continued associations with women.
+
+Yuss, indeed.
+
+> A feminist engagement with video games, then, must be in part an
+> engagement with how the field of game studies shapes inquiry according
+> to the implicit gender binaries of hardcore/casual,
+> mechanics/narrative, and computation/representation
+
+Oooh, yah. See the earlier... Shelley? quote about visual novels as
+feminine. Er, hypertexts, I mean.
+
+> One, all video games work on us in various ways that cannot be
+> completely described through representation, hardware, or code. What
+> it feels like to play a game cannot be broken down into semiotic,
+> phenomenological, psychological, or algorithmic units.
+
+See Galloway's (ugh) comments on the importance of the player in the
+equation. Also Flannegan & Nissenbaum, also several others.
+
+> First, all casual games are bound up with work, and time management
+> games, in particular, are affective systems that operate on various
+> levels as mediations of “women’s work.”
+
+Interesting take. I'm curious how this argument will unfold.
+
+> While aesthetics similar to Kinkade’s can be found in games, we don’t
+> display video games like we do paintings on our living room walls.
+
+Sort of. We might do this at, like, the VGA gallery, though. After all,
+most paintings don't have to be plugged in. If you made, like, an e-ink
+video game that ran off of solar panels, I bet people might want to hang
+it on their walls. Just saying.
+
+Though, she might be (or Bogost might be, I suppose) claiming that you
+can't hang a video game on a wall because to look at it isn't to act on
+it, and you need to act on it for it to be a true video game.
+
+> ...it is more useful to consider la perruque of casual games as the work
+> of affect disguised from ourselves.
+
+I'm not 100% convinced by the argument that video games are a
+reconceptualization of work, but this is still a spicy take.
+
+> ...rather they convert leisure time into time management training for
+> their already overextended lives.
+
+I don't know about this, but iono why? Maybe I'm miffed by the idea that
+games are necessarily "training"?
+
+> The occupational sentimentalism that Bogost finds fails to address the
+> ways the game’s cheerful cultural layer is repeatedly undone by its
+> time management mechanics, and Chess’s analysis of the game mechanics
+> does not get at the odd interplay between the images and the actions.
+
+If only we had some sort of unifying theory of how mechanics and
+aesthetics merged...
+
+> As Jesper Juul puts it, game genres are named “after what you do as a
+> player, rather than after the fiction.”
+
+For sure. See also Wardrip-Fruin's comments on _Gone Home_.
+
+> This fact is often used to shore up claims in game studies that game
+> mechanics are more significant to the player’s experience than any of
+> the more obvious signifying units. 
+
+Is this really a game studies claim? No one in the industry is going to
+claim that you can get away with replacing your _Space Invaders_ ship
+with a giant schlong that shoots swastikas and not have anyone comment
+on the obvious problems, even if the mecahanics are the same. -\_\_\_-
+
+> The maniacal and rapid tapping and clicking of the player to complete
+> a timed task is a highly visible form of work on a smooth machine that
+> is designed to conceal our labor and to conceal the digital processes
+> that structure our lives.
+
+Oh, nice. 
+
+> Time management games (and all casual games to some degree) function
+> as rhythmic interludes that mediate the gaps, pauses, and glitches
+> that are part of everyday digital rhythms.
+
+I guess? Really, I'm inclined to highlight the modern approach to
+clicker/incremental games (and their endless paradigm shifts), and even
+_Project Highrise_, which in several reviews is compared to an
+incremental game despite its substantial time to spin up.
+
+> I want to pry open a space for the ways these games, as affective
+> systems, cannot be completely pinned to any subject or
+> representational practice; but rather function as mediations between
+> subjects of labor, the devices of labor, and representations of labor.
+
+This is perplexing me, not only because we're reaching Lauren levels of
+mind-bendy, but also because I must have missed how things became
+entirely about labor? Or, or something?
