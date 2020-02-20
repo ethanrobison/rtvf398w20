@@ -1449,3 +1449,139 @@ incremental game despite its substantial time to spin up.
 This is perplexing me, not only because we're reaching Lauren levels of
 mind-bendy, but also because I must have missed how things became
 entirely about labor? Or, or something?
+
+# Taylor
+
+> what constitutes a “real” sport, and indeed meaningful athleticism,
+> has been debated. (36)
+
+Ah, topical. See, of course, our earlier discussions on what constitutes
+a "real" game.
+
+> The revered moniker of “sport” gets reserved for the coordinated and
+> formalized activities around these skills. Long-standing debates about
+> what constitutes a “real” sport intersect deeply held notions about
+> masculinity (and femininity), class, and culture. (36)
+
+I doubt that this class will have problems calling esports "sports".
+
+> Indeed, if you look within the avid community of computer game players
+> and e-sports aficionados, you find regular con- versations not only
+> about if computer games can be thought of this way, but indeed whether
+> or not particular titles and genres warrant such inclu- sion. (36)
+
+I am reminded, surprise, surprise, of [an XKCD](https://xkcd.com/1095/).
+
+> Fundamental to my approach is to not render a defini- tional judgment
+> myself, but to document how it is understood as sport, and produced as
+> such, within the community itself. (37)
+
+I'm thinking in terms of my thesis (as I always am, at this point in my
+life): I like that he's not trying to be prescreptive about this. I fear
+that maybe I'm being to prescreptive in my discussion of social logics
+games. Then again, a big part of my argument is that I'm getting at what
+it means to make and to play these games. I'm not casting aspersions at
+games that have claimed to be social logics games; instead, I'm trying
+to pave a way for future work that wants to make that claim. I am happy
+to be overridden.
+
+> Unlike in, for example, baseball, where two official schools handle
+> all the training for aspiring umpires (via a pretty rigorous program),
+> pro e-sports refs are a self-trained and self-governed group, often
+> standing betwixt and between player-fan and referee identity. (81)
+
+This is an interesting problem to have.
+
+> Few have integrated betting on e-sports matches though one, XLBet.com,
+> has been letting people place money on Counter-Strike, Warcraft, and
+> Starcraft matches for several years now. (82)
+
+So far, this has been a point-by-point comparison of "sports
+characteristics", especially community-based ones, and how e-sports
+mirrors traditional sports. A descriptive argument for their legitimacy.
+
+> What I do want to highlight though is that rules formation in computer
+> gaming is an ongoing process and occurs in dialog with emerging
+> technologies and techniques. As machines, screens, and even mice
+> change, the actual performance of play adjusts. Often this adjustment
+> involves players finding new ways to perform, new tactics and
+> approaches, even to games they’ve been playing for years. (83)
+
+Important! It's an ongoing conversation, not just in terms of the
+legitimacy of the hobby/profession, but also in terms of what the
+specifics of the activity _are_. This is, of course, why this is such an
+interesting and topical subject: we're at a temporal border between
+"this is clearly not a thing" and, presumably in the future, "this is
+clearly a thing." Good time to be alive.
+
+> By unpacking the construction and negotiation of rules not only across
+> a period of time but among a number of actors, we can begin to
+> complicate the notion that computation serves as a totalizing agent—a
+> penultimate game master, if you will, in computer game play. (84)
+
+Yeah, computer is not a GM. They are the dumb and the bad at everything.
+
+> Collins writes, for example, of the “new interpretations” that are
+> called upon, “even in highly ritualized, fully con- sensual, and long
+> regulated sets of activities” (1990, 84). He goes on to point out that
+> this is not a case of a rule system simply being “deficient” as is
+> commonly thought, but that a perfect state of rules is simply
+> unattainable given it would be a “complete description of the past of
+> every possible future” (1990, 92, emphasis mine). (58)
+
+You can't come up with perfect rules. That's not how the future works.
+
+> Contemporary traditional sports regularly demonstrate this complex
+> relationship not only between various technologies on the field (be it
+> new innovations in gear or equipment), but in the regimens of practice
+> and body modification undergone in sports medicine, physical therapy,
+> and advanced training. (40)
+
+Before the game is after the game. It isn't just the moment of
+competition that plays into the material question of sports and access
+(although this is certainly relevant); it's the entire history of the
+competitor and their training experience.
+
+> The link he is pointing to here, between technology (mouse sensitiv-
+> ity settings), material configuration (mouse pad size), and actual
+> style of play is rarely considered when we talk about computer games.
+> (43)
+
+This is a fascinating discussion. I'm inclined to think about, like,
+the use of tar.
+
+> Basketball courts, as with most pitches/fields of play (i.e. cricket,
+> football, etc.) are often “glitchy”—hence “home-court” advantage.
+> Knowing how the rim will bounce a shot off it is something all players
+> “play with” during warm-up, which sometimes even reshapes one’s
+> shooting for that day in order to accommodate “the glitch.” Some
+> players are even coached to only shoot off of the backboard due to the
+> unknown quality of the rims that will inevitably be met in play.
+> (Personal com- munication, 2011) (45)
+
+A fascinating take on home court advantage... and on glitchiness.
+
+# O'Donnell
+
+> System failures can result when interactive disciplinarity disconnects
+> from the safety valves between feedback loops. (133)
+
+Well, okay.
+
+> These structures must also be communicated among team members, a
+> process that is frequently neglected when time pressures are imposed,
+> are disconnected from knowledge about where a team is, or are
+> oblivious to how a team is functioning. (133)
+
+Sure, sure.
+
+> Most importantly, these standards, tools and practices need to be open
+> for debate and conversation. They are ultimately too important to be
+> hidden behind NDAs or licenses available only to a small portion of
+> those who call themselves game developers. (134)
+
+I'm... not sure what this means. It sounds good enough---it's a call to
+action, sort of. But, what would those conversations look and sound
+like? Don't let it seem like I'm saying that just because O'Donnell
+doesn't provide precise examples that she's necessarily wrong, I'm just
+trying to figure out what she means is all.
