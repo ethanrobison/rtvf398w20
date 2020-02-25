@@ -1,5 +1,4 @@
-# Homo Ludens
-
+# Homo Ludens 
 > In play there is something "at play" which transcends the immediate
 > needs of life and imparts meaning to the action. (1)
 
@@ -1560,6 +1559,80 @@ the use of tar.
 > (Personal com- munication, 2011) (45)
 
 A fascinating take on home court advantage... and on glitchiness.
+
+# Dyer-Witheford and Peuter
+
+Interesting, they kick off with a "serious" game whose purpose seems to
+be working with PTSD, as opposed to, you know, propoganda...
+
+> FSW’s double life as actual trainer and virtual toy, we argue, aptly
+> demonstrates the “banalization of war” (Hardt and Negri 2000, 12)—the
+> enveloping sociocultural-emotional process habituating populations to
+> the perpetual conflict of the war on terror. (99)
+
+Yeah, it's a tool for teaching death, but it's also... a children's toy.
+
+Interestingly, this piece so far seems to be as much about the broader
+social context of war, &c. as it does about video games and war.
+
+> The long-standing interaction of video game culture and the military
+> apparatus is a component in this pro- cess of the banalization of war.
+> (100)
+
+I can speak at least a little to this: if I want to get funding for my
+video games research, my best bet is to look for DARPA money. That is,
+to do warfare research. It's not my bag, but I understand that there are
+many for whom it is theirs.
+
+> ...but the games’ author, Radwan Kasmiya, rejects the comparison,
+> saying that players will be able to “tell the difference between a
+> history game based on lives of real people trying to survive ethnic
+> cleansing and a political propa- ganda that is trying to inject morals
+> in future marines to justify their assaults on nations far away from
+> their homeland” (cited in Oliver 2004b). (119)
+
+...
+
+> The two-sided collision be- tween Empire and multitude that they
+> describe is enormously compli- cated by the fact that since 2001 the
+> major opponent to capitalist mo- dernity to emerge is fundamentalist
+> jihad aiming to restore a medieval caliphate. To take account of this,
+> the binary opposition of Empire and multitude must be rethought as a
+> triangular fight whose third point is theocracy. On this, Retort is
+> correct to take the antiwar movement to task for failing to adequately
+> confront the rise of “revolutionary Islam” (2005, 132–69). We
+> anticipate that the coming years will see more games rendering this
+> third protagonist, theocracy, playable. (120)
+
+I'm not sure what this means? Did I briefly lose the ability to read, or
+something? Anyhow, that's a heck of a prediciton.
+
+> Says TPO’s commanding officer: “We will empower that soldier to build
+> his own scenario rapidly so he can train for his specified task” (Peck
+> 2007). (121)
+
+We've heard that one before. Just let them write their own content!
+
+> Skeptics say Deep Green will never work; but even as a
+> multi-million-dollar boondoggle, it will generate innumer- able
+> spin-offs for the game industry. (121)
+
+Uh... I don't know about that. This chapter seems a _little_ out of
+touch with how game production happens?
+
+> The miracle of Zekistan is that its streets are deserted and houses
+> empty, apart from the ubiquitous Tangos (who all die instanta- neously
+> when hit). Air and artillery strikes do not hit wedding parties. There
+> is no collateral damage. War is peace. (113)
+
+This was, by accident, the first passage that I read from this chapter.
+It's probably the most telling. After all, the purpose of the game isn't
+to be representative of warfare in any sense. It's not super clear
+_what_ it's purpose is. Maybe propoganda, maybe to fill the role of
+banalization. That is, it is an artifact whose existence serves less to
+convince people that war is ordinary, but more to characterize a people
+who would be receptive to that sort of thing. Nah, that was a dumb
+sentence to write.
 
 # O'Donnell
 
