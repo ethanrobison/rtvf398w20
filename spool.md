@@ -1658,3 +1658,56 @@ action, sort of. But, what would those conversations look and sound
 like? Don't let it seem like I'm saying that just because O'Donnell
 doesn't provide precise examples that she's necessarily wrong, I'm just
 trying to figure out what she means is all.
+
+> This frequently makes it easier for them to understand game
+> development as work, rather than only as a personal passion. (143)
+
+Gotta teach the kids that they should treat this job as a job...
+
+> ...makes it convenient for developers to ignore the insights of
+> others, occasionally cherry-picking ideas from other worlds without
+> really examning the consequences of those ideas. (146)
+
+Possibly, but I do feel that the idealistic "we should all share and
+critically receive others' ideas" is missing a bit about the
+difficulties of game development. 
+
+Quoting Huizinga here seems disingenuous, but alright, bud.
+
+> Fixing the ways in which studios work will also necessitate change in
+> how game development companies recruit new talent. Rather than
+> demanding that aspiring youth "break into" the game industry, there
+> must be mecahnisms by which they can be encouraged into the industry.
+> (165)
+
+Err, I like the next bit more: "If developers allow themselves to
+maintain the existing structure where only those who have already
+'figured it out' are authorized, they will continue to get more of the
+same: inexperienced developers who reinvent the wheel, grow frustrated,
+and leave," (165). Interestingly, so much of what I personally want to
+do is to help the youth code better. These people write the most
+obnoxious lines of software, and I don't blame them for it. After all,
+I've written some dicey stuff before. I shouldn't act like I didn't
+climb that ladder. But man, was I glad to have other people showing me
+how to step. I guess this bit makes up for all the nonsense above,
+insofar as it reminds us that these cultural touchstones are entrenched
+because developers choose (implicitly, we hope) to leave them as such.
+
+Please, "scrum" is not the answer. This is, however, written before the
+modern shift into generally-broadcast social media posts on how to make
+things. So, there's that.
+
+> In other words, there is an underlying system (a game mechanic,
+> perhaps) that encourages the system to break in consistent ways that
+> continue to steal adventure capital from those with the fewest
+> resources: rank and file developers. (165)
+
+Yayaya. Eat the rich! Seize the means of production!
+
+> Artists sometimes perceive the unwillingess of an engineer to expose
+> functionality as a lack of interest in the overall visual appeal of a
+> game. Engineers can frequently perceive the demands of artists as
+> superfluous or distracting, frustrating obstacles to the completion of
+> other aspects of game functionality. (112)
+
+Don't talk to anyone like either of these people lol.
