@@ -92,3 +92,23 @@ that culture around, per se, I just think it's really cool (and hard to
 process, kinda) that these two things are both part of the zeitgeist
 around these machines. There are people who don't give a shit, and
 that's their last word on it. Cool stuff.
+
+> This objective of ssigning the status of monument to all industrial
+> remains has been overemphasized in industrial archeology, while the
+> subject, as Palmer and Neaverson claim, can "take its places as a
+> fully fledged branch of archaeological studies if it will at the same
+> time accept the need for a research agenda with a theoretical
+> content." (162)
+
+Curious. I want to poke back at this, but perhaps only because I am
+uninitiated. It's easy for me to pretend-ask, "but why does it _need_
+theory?" Especially easy because I lack so much context.
+
+I guess, there's that age-old question about "rigor": is it beefing up
+the field, or is it meaningless gatekeeping? Since it likely falls
+somewhere on the spectrum(a) between the two, we can rephrase this as
+asking how much of each it might satisfy.
+
+Interesting how this is the intersection of "industrial archeology" and
+"video games", both of which seem to be black sheep for whichever
+categorization you want to give them. Not one pariah, but two.
