@@ -1,3 +1,14 @@
+# notes
+
+Chaz:
+> Both ideas have a shared methodological core: comparing the
+> representations expressed in mechanics to their referents and
+> identifying the dissonance between the two. This is a broad,
+> infinitely usable, and valuable method of inquiry. Big enough to use
+> for a whole career if one were so inclined.
+
+
+
 # Games of Empire
 
 > Making and playing digital games involve combining technical,
@@ -182,7 +193,7 @@ _need_ to be perfect fidelity.
 > than ever. Wardynski dreaded the possibilty of the following headline
 > greeting him in a major newspaper: "The army is using taxpayer funds
 > to create another Columbine." The games media might write, "The army
-> has made a version of _Grand Theft Auto" and mean it as a compliment,
+> has made a version of _Grand Theft Auto_" and mean it as a compliment,
 > but even a hint of that story angle in the mainstream media would,
 > from Wardynski's perspective, sink the game. (73)
 
@@ -214,3 +225,4 @@ What do Persona 5 and Stardew Valley have in common?
 - tasked with "living a normal life as a normal citizen" (neither game,
   mechanically speaking, actually encourages this)
 - collect-em-all relationship mechanics
+
