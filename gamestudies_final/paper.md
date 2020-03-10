@@ -5,38 +5,72 @@ author: Ethan Robison
 date: \today
 ---
 
-# Abstract
-[TK]
-
 # Introduction
-[TK]
 
-1. Games which attempt some level of realism [CITE Galloway, also
-   unpack] are partial representations of a setting, or a process. They
-   _cannot_ and, frankly, should not be complete representations of
-   these processes.
-2. Since some parts are included and others excluded from the mechanical
-   representations of the game, we can and should read values into the
-   implicit and explicit decisions that the developers made in creating
-   the artifact.
-3. Here we unpack a variety of military "games" and simulations, and
-   argue that their mechanical structures are hegemonic of the
-   military-entertainment complex, and do not achieve the oft-stated
-   goal of a holistic training mechanism for the soldiers of tomorrow.
-4. In particular, we highlight the ways in which the:
-    i. gruesome
-    ii. boring
-    iii. bureaucratic
-    iv. interpersonal
-   aspects of war are deliberately elided in the popular representations
-   of the military in the games created by or for the US military.
-5. Finally, we unpack the values that these values themselves represent,
-   and argue that we as members of a games community might consider
-   games that serve these particularly militaristic purposes might be
-   placed into a separate category of game, in a rare act of deliberate
-   and explicit gate-keeping based off of the sorts of games that we
-   find to be not representative of the values of the industry at large,
-   notwithstanding its many other problems.
+Games which attempt to simulate a set of physical or social processes
+must inevitably make some sacrifice with respect to the particulars of
+those processes. They cannot perfectly simulate every minute physical
+law or macroeconomic pattern that we as humans populating the real world
+may or may not understand. There are limitations to the fidelity of the
+simulation.
+
+These limitations mean that certain aspects central to the simulation,
+or tangential to it, must be excluded from the interactivity. If no
+simulation can perfectly capture the real world, what it captures must
+be at best a subset of it, implying that certain things are left behind
+or overlooked or elided.
+
+These elisions, implicitly or explicitly chosen by the creators of these
+simulations, themselves capture the values of the software as a text,
+just as the parts that are included contribute to these sets of values.
+We can, and should, read as many values judgements out of the decision
+to exclude some particularly salient aspect of the "real world" from a
+simulation of it.
+
+We present an unpacking of a variety of military "games" and pieces of
+simulation software, and a deliberate reading into of the particulars of
+warfare that are missing from those artifacts. We argue that the
+mechanics of these games are representative of the hegemony of the
+military-entertainment complex [CITE Gameplay Mode?], despite the
+oft-stated goal of their creators of creating holistic training
+mechanisms for the soldiers of tomorrow.
+
+In particular, we examine a few pieces of software created by or for the
+benefit of the U.S. military: [TODO], [TODO], [TODO]. Each claims to
+capture some of the particulars of being a member of the military,
+although we will argue that each falls short of its ostensibly holistic
+nature and instead perpetuates certain ideas and ideals about what it
+means to be an active participant in a theater of war, while
+conveniently or inadvertantly ignoring other aspects.
+
+In particular, we highlight those other aspects which these pieces of
+software do not cover or represent adequately, namely that which is:
+
+1. Gruesome
+2. Mundane
+3. Bureaucratic
+4. Interpersonal
+
+Each of these, we will argue, represents an aspect of warfare or
+military life which for a variety of reasons does not translate well
+into gameplay. These reasons could be based on a technical,
+entertainment, or ethical foundation.
+
+On the other hand, we also emphasize that these pieces of software in
+fact do an adequate job of providing teaching for certain, specific
+values which are in line with the ultimate goals of the U.S. military as
+understood in a general sense, namely:
+
+1. High recruitment numbers
+2. Strong intra- and inter-unit coordination and performance
+3. Limited legal liability
+
+Finally, we unpack the values that these values themselves represent.
+That is, the overarching goals that are captured by the existence of
+these texts, which embody certain values that the U.S. military holds.
+Then, we will highlight the ways in which a military, despite its ostensible
+membership in a games creation community, represents a vastly different
+set of interests than typical game developers.
 
 # Part 1
 
@@ -270,10 +304,13 @@ assault training for officers], or merely providing warm bodies for the
 army [TODO cite America's Army].} we should call into question whether
 we, as community members, want to award these the title of "game". 
 
-# Discussion
-[TK]
-
 # Conclusion
-[TK]
+
+Ultimately, it is a question of how these games get made, and for whom.
+We hope that in a society such as ours, we can safely reflect on the
+fact that the military does some deeply problematic stuff, and still
+acknowledge that games are cool. Yet we must rely on our own
+sensibilities with respect to what counts as a game made for our
+benefit, and one which serves the military machine.
 
 # Bibliography
