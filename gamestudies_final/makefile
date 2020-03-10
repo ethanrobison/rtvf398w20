@@ -11,7 +11,7 @@ all: clean build
 
 build:
 	$(pandoc) $(paper) -o $(result)
-	open $(result)
+#	open $(result)
 
 .PHONY: clean
 clean:
