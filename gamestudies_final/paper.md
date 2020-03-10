@@ -68,79 +68,76 @@ understood in a general sense, namely:
 Finally, we unpack the values that these values themselves represent.
 That is, the overarching goals that are captured by the existence of
 these texts, which embody certain values that the U.S. military holds.
-Then, we will highlight the ways in which a military, despite its ostensible
-membership in a games creation community, represents a vastly different
-set of interests than typical game developers.
+Then, we will highlight the ways in which a military, despite its
+ostensible membership in a games creation community, represents a vastly
+different set of interests than typical game developers.
 
-# Part 1
+# Games as Incomplete Representations
 
-Games are simulacra of real-world or fantastical settings. They
-represent realistic or impossible happenstances through their mechanics
-and structure, and ultimately we play them to have experiences in other
-parts of life, or of parts of our own life seen through a different
-perspective.
+Games which aim to simulate some aspect of a world, real or imagined,
+represent happenstances through their mechanics and structure.
+Ultimately, we play them to have experiences that are similar to ours,
+but through a different lens; or to have experiences wholly unlike our
+own lives. That is, we are unlikely to play games which capture our own
+lived experiences unless they can shed new light on them (if one wants
+to do otherwise, they could just go forth and live their own life).
 
-However, it is crucial to note two things about the simulation that
-games do of "the world", whether it is the real world or a world that
-can never exist, such as the rather non-euclidean [TODO EXAMPLE HERE].
-First, that no simulation can every perfectly capture every element of a
-world.\footnote{At least, no simulation that we are capable of making
-using the machines and algorithms that we currently understand. The
-future is a wide open space as far as technical constructs are
-concerned. I'm glad to put my equivocating in footnotes, so that I can
-delete it later.} We have no means of capturing, say, the enormously
-complicated turbulent movement patterns of fluids around a plane's wing.
-Similarly, however, we have no means of capturing the effects of a new
-form of magic on the global economy of the world of Nirn, the setting of
-the Elder Scrolls series of video games [CITE].\footnote{Though we cannot
-formally prove the impossibility, solving for these kinds of models
-would so radically change the world (e.g., the stock market of the real
-world) that life as we know it would be forever changed.}
+However, the complexity of the world, real or imagined, means that a
+perfect representation of its processes is out of reach, technically
+speaking. Traditional computation does not afford us the mechanisms by
+which we might capture, say, Dow Jones here in the real world; nor the
+simulated economy of the world of Nirn, home of the Elder Scrolls series
+of games [CITE]. Nor can we capture the physical processes of any world
+correctly or completely. The good news is that, historically speaking,
+it has rarely been beneficial to provide ultra-high fidelity simulations
+of existence within the world of video games. Though classic
+understandings of computers as powerful engines of arithmetic may have
+bamboozled mathematicians into thinking they would be able to simulate
+the weather to the n-th degree, the entertainment industry opted for
+simulacra of particular processes in lieu of technical correctness.
 
-The important thing to understand here is that there is _no_ mapping
-from the game onto the real world that correctly and completely captures
-the world as it operates: some things must be left out.\footnote{You can
-prove this, I suppose, by thinking about how you would simulate
-subatomic particles. You need at least as many subatomic particles as
-there are in the real world, but almost certainly more.}
+This juxtaposition, that of an insurmountable barrier and its
+workaround, is important: it means that games (really, all software)
+that hopes to represent reality (real or fantastical) is simultaneously
+forced to live with inaccuracies and perfectly happy to do so. For
+entertainment's sake, it is rarely worthwhile to capture the entirety of
+the details germane to a particular series of
+occurences.\footnote{You'll never see James Bond brush his teeth.}
 
-Some things are included, others are left out. This decision, whether
-implicit or explicit, means that a values judgement is made about the
-content of the game.
+The fact that games are incomplete representations implies that certain
+aspects of the simulated abstract space are necessarily excluded. The
+question of what should and should not be included is answered at best
+only partially deliberately: a group of creators cannot perfectly reason
+about what they are and are not including. Nevertheless, there are
+values to be read into which parts of reality make it into the
+simulation as mechanics and systems within the ludology.
 
-The idea that games capture values, and that those values are decided by
-the developers, is unpacked at length by [CITE F&N]. We emphasize here,
-however, a particular point: the mechanical affordances the game
-provides are a substantial font of these values. In particular, we wish
-to examine the ways in which a game's stated values---as marketed, as
-perceived, as used, as a member of the ontological category of "game",
-&c.---might or might not conflict with the mechanics that developers
-choose to implement. We examine these conflicts in the context of
-military games, themselves controversial enough at the very least for
-their ambiguous status with respect to the age-old question, "what is
-fun?"
+This idea is related to, indeed descended from, the argument made by
+Flannigan and Nissenbaum [CITE] with respect inevitable capturing of
+values by works, including video games. Here we expand on this thesis,
+and highlight that there are certain systems, certain logics of behavior
+[CITE Wardrip-Fruin?] that a developer might implement, and certain that
+they may not. Note that of the set of processes that we understand about
+a world, some of these must be excluded from a simulation. Critically,
+we can read as many values out of the parts of reality that are left out
+of a simulation as the parts that are.
 
-# Part 2
+We investigate the excluded aspects of reality that are wrapped up in
+military games and other interactive artifacts. Especially, we unpack
+the differences between the implied values of these software---as
+marketed, as perceived, as used, and as members of the broad ontological
+category of "game". We examine these conflicts in the context of the
+military-entertainment complex [CITE?], itself controversial with
+respect to the age-old question of what is fun.
 
-Since a game cannot perfectly capture the totality of the experience
-that it is attempting to provide, we must examine the parts which get
-pruned (for they are as informative as the parts which are included).
+[TODO mention the history of entertainment as it stems from military
+research? See Gameplay mode.]
 
-We ask: do the pieces of the game which made it into the final cut
-represent the values as stated by the game's creators? Are these pieces
-in line with the values as we typically understand them, vis-a-vis those
-processes?
+# Values at Play in Military Games
 
-For example, if we spend monnneeeyyy [TODO how much???] to make a game to
-teach sexual assault sensitivity to officers, but that game is
-ultimately a dialog tree with expensive voice acting and animation, and
-completely excludes role play with humans, what have we said? [CITE the
-thing from ICT].
-
-Ultimately, we must ask what values we normally project onto the verbs
-that the game affords. Is the verb "say", or "soothe", or "shoot"?
-
-# Part 3
+1. High recruitment numbers
+2. Strong intra- and inter-unit coordination and performance
+3. Limited legal liability
 
 What, then, are the values wrapped up in these games?
 
@@ -155,6 +152,8 @@ narrative conceit (such as being a soldier in the military) is not
 afforded such leeway. If it is the foundation of the game, then there is
 a values judgement embedded in it. In this case, being uncritical of a
 particular central element is in fact an endorsement.
+
+# Part 3
 
 In fact, these games are often guilty of bauderlerizing war. Enemies die
 in a single hit, and their corpses are conveniently garbage-collected by
@@ -193,6 +192,29 @@ soldiers to be soldiers top to bottom. It can only be that they are
 tools for preparing soldiers to be soldiers as the US military wants
 them to be, or for preparing civilians to be soldiers at the end of the
 day.
+
+1. Gruesome
+2. Mundane
+3. Bureaucratic
+4. Interpersonal
+
+Since a game cannot perfectly capture the totality of the experience
+that it is attempting to provide, we must examine the parts which get
+pruned (for they are as informative as the parts which are included).
+
+We ask: do the pieces of the game which made it into the final cut
+represent the values as stated by the game's creators? Are these pieces
+in line with the values as we typically understand them, vis-a-vis those
+processes?
+
+For example, if we spend monnneeeyyy [TODO how much???] to make a game to
+teach sexual assault sensitivity to officers, but that game is
+ultimately a dialog tree with expensive voice acting and animation, and
+completely excludes role play with humans, what have we said? [CITE the
+thing from ICT].
+
+Ultimately, we must ask what values we normally project onto the verbs
+that the game affords. Is the verb "say", or "soothe", or "shoot"?
 
 # Part 4
 
