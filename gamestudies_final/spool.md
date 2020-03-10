@@ -226,3 +226,71 @@ What do Persona 5 and Stardew Valley have in common?
   mechanically speaking, actually encourages this)
 - collect-em-all relationship mechanics
 
+# Gameplay Mode
+
+> Media theorists typically responded in the wake of the war by exposing
+> the highly selective and unrepresentative nature of U.S.
+> military-controlled media briefings. (1)
+
+Just like the games are selective and not representative, although not
+quite for the same reasons, I suppose. That is, the games are at least
+partially made for entertainment purposes and therefore might choose to
+"opt 
+
+> ...arguing that it was an ideological construction that served in part
+> to reduce the need for American telespectators to confront the real
+> horror of the war's effect on the Iraqi and Kuwaiti populations
+> subject to it. (1)
+
+[USE]
+
+> If war was, and remains, unlike the virtualized, simulated experience
+> of instrumental efficiency for much of the time and for most who fall
+> within its theater, this vision of controlled, precise, clean war has
+> been and remains a powerful animating tendency of technocultural
+> becoming. (2)
+
+There is a common theme of acting as though an engineered system
+captures the nuances of the real world, even among those who are well
+aware that no plan survives first contact with the enemy. Or, you know,
+dirt, for that matter.
+
+> Is this vehicle one that determines in advance the terrain of the
+> future through the virtualization of that terrain? (16)
+
+We see here the importance of "correct" values judgements on the part of
+the military. In choosing to include some scenarios but not others in
+their simulations, they teach soldiers how the future might go. Or
+something...
+
+> History becomes a resource for this preferred, proactive, and
+> instrumental orientation to a future whose decisive characteristic in
+> this military technoscientific frame is as a potential threat. (16)
+
+This is a spicy take about how we prepare to "combat" the future. We
+aren't prepping to better understand our path and our trajectory
+forward, except as we hope to better be able to kick the future's ass.
+
+> Some key milestones along the way toward the military-entertainment
+> complex include the U.S. Marine Corps' experimental adaptation of the
+> classic first-person shooter game _Doom II_ (id Software, 1994) as a
+> training system for squad tactics. (16)
+
+Here we see the point: _Doom II_ [CITE] did the job just fine, despite
+having mechanics that, frankly, probably don't make a whole lot of
+real-world sense. Yet it works to teach squad tactics. It works to teach
+what the army wants it to teach.
+
+> While they can be distinguished from each other in their specific
+> fields of pertinence, practice, sociopolitical and cultural
+> significance, and legal framing, they must be approached in their
+> complexity as composed together in their mutual codevelopment. (17)
+
+You can't split 'em up.
+
+> A truly viable critical engagement with the entertainment forms of our
+> contemporary technoculture must proceed on the basis of this
+> complexity. (17)
+
+And, as such, you can't talk about the modern situation of one without
+the other involved in the narrative.
