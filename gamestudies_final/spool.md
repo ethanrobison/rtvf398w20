@@ -294,3 +294,200 @@ You can't split 'em up.
 
 And, as such, you can't talk about the modern situation of one without
 the other involved in the narrative.
+
+
+# Social Realism
+
+> Today it is evident that he was right: flight simulators, Doom, and
+> now America’s Army are all realistic training tools at some level, be
+> they skill builders in a utilitarian sense or simply instructive of a
+> larger militaristic ideology. (71)
+
+I don't know that anyone is really pulling for the widespread use of
+_Doom_ as a military training tool per se, but that's alright.
+
+It's interesting that he felt the need to do this throat-clearing, and
+then went and promptly moved on. I guess the early oughts were a
+different time.
+
+> So far, debates about representation have focused on whether images
+> (or language, or what have you) are a faithful, mimetic mirror of
+> reality thereby offering some unmediated truth about the world, or
+> conversely whether images are a separate, constructed medium thereby
+> standing apart from the world in a separate semantic zone. (71)
+
+Oohhh, let us dig into this.
+
+> But as Johan Huizinga reminded us many years ago in his writings on
+> play, “It is methectic rather than mimetic.” (72)
+
+For the closing line to a section, this statement is almost vacuous.
+Admitedly, Galloway is writing for those to whom these esoteric terms
+map onto something. Still, there's no reason to use jargon for jargon's
+sake.
+
+> Thus games are generally either realistic or fantastical. (72)
+
+This touches on something that we've danced around a lot in class: what
+happens when the aesthetic (visual, or otherwise) of a game is switched
+out for a different one? In our conversation on queer games on Tuesday,
+we poked at the idea that the same systems (the same mechanics, the same
+rules, the same gameplay) as _Curtain_, but with a patently straight
+couple, just wouldn't be as queer. What, then, do we say about realism
+as it applies to games? If we only ask about realness vis-a-vis
+aesthetic choices, what would we say about a military-themed game with
+high fidelity graphics, but where the core gameplay loop is that of a
+match-3 like Candy Crush? Do we need to shoot people and have their
+heads explode to make a game which embodies a military ideology, as
+Galloway mentions in his opening?
+
+These hypotheticals show up often: when we teach the MDA framework to
+students, we ask them about Whack-a-Mole, but with the moles replaced
+with baby seals that die gruesome deaths instead of dipping back into
+their holes. Koster, in his _Theory of Fun for Video Games_, mentions an
+aesthetic shift to _Tetris_ in which the blocks are the corpses of a
+serial killer which the player must contort into a cadaver-filled
+ravine.
+
+Admitedly, again, Galloway's eliding of the discussion of the difference
+between mechanics and aesthetics---and how they both impact the player
+experience---is excuseable (MDA was published in 2005, and its legacy
+has been a slow burn). Nevertheless, we should ask ourselves what sorts
+of things give us that military affect. Is it mechanics? Aesthetics?
+Both? Do we weight one more heavily than the other?
+
+> those that have as their central conceit the mimetic reconstruction of
+> real life, and those resigned to fantasy worlds of various kinds. (72)
+
+Uh, I guess, although I do wonder where, for instance, _Tetris_ falls in
+all of this. Or, perhaps, alternate future/present/past "realistic
+fiction" analogs. Furthermore, I'd push back on the idea that, say,
+_SOCOM_ is necessarily about the real Navy Seals; more likely, it's
+about the parts of special forces life that we as a collective audience
+have ostensibly clamored for. That is, even though real-life special
+forces agents spend more time learning the local dialect than they do
+studying mortar-based attack tactics, only one of these gets shipped in
+the final version of _SOCOM_. But, sure, _SOCOM_ is about the real Navy
+Seals, and not about, say, an alternate-universe take on them.
+
+Although, I suppose I take his later point that being "realistic", as
+opposed to the opposite idea of being "not realistic", which is to say
+not embodying a central subject that is a real thing. I'm going to have
+to point out the law of the excluded middle here, or more specifically
+its absence: it isn't as though we say that some things belong to the
+category of realistic, and everything else does not.
+
+Oh, also, The Sims doesn't take place in the real world. Just saying.
+The fact that it bears on a "real" activity... Boy howdy.
+
+> was deemed so realistic by the U.S. military that they hired Atari to
+> build a special version used to train tank pilots. (73)
+
+This isn't much of a flex, really. _Call of Duty_ time-warped back to
+1975 would have blown the DOD's pea brains and likely been classified.
+
+Much like his last essay, Galloway spends a lot of his time in this one
+saying something, and then undoing it over the next four paragraphs.
+
+> But further, Bazin also associated neorealism with a certain type of
+> narrative, not simply a certain type of form. (74)
+
+An important acknowledgement. It isn't just the aesthetics; it's also
+the thing wrapped up in them.
+
+> all narrative means tending to bring an added measure of reality to
+> the screen.” (75)
+
+At the risk of over-comparing two media, this touches on what Pow meant
+in their essay on how a game might be "queer."
+
+> I suggest that game studies should follow these same arguments and not
+> turn to a theory of realism in gaming as mere realistic
+> representation, but define realist games as those games that reflect
+> critically on the minutiae of everyday life, replete as it is with
+> struggle, personal drama, and injustice. (75)
+
+Okay, then. I guess that's fine.
+
+> This is one of the primary reasons why video games absolutely cannot
+> be excised from the social contexts in which they are played. (84)
+
+Much like he kicked the first essay off with a frustratingly roundabout
+take, and then finished strong, Galloway here outlines the importance of
+_context_ (in addition to, say, _action_) in how we play games. That is
+to say, the lens through which we view the text of the game is itself
+important. At the risk of sounding cheesy, let us tie it back in to
+_Curtain_: what sorts of players are more likely to see _Curtain_ as
+queer? What sorts of _playstyles_ are more likely to see _Curtain_ as
+queer? This goes beyond anti-trans types and speedrunners looking to
+check off the game's mechanical boxes; the game literally reads
+differently to different readers.
+
+> In this way, realism in gaming is fundamentally a process of
+> revisiting the material substrate of the medium and establishing
+> correspondences with specific activities existent in the social
+> reality of the gamer. (84)
+
+God, I wish he would just reverse his paragraphs. This is a much better
+take than the earlier, asinine phrasing.
+
+> So it is because games are an active medium that realism in gaming
+> requires a special congruence between the social reality depicted in
+> the game and the social reality known and lived by the player. (83)
+
+> But because of the congruence requirement in gaming, if one is a
+> realist game designer, the challenge is not only to capture the social
+> realities of the disenfranchised but also to inject the game back into
+> the correct social milieu of available players where it rings true.
+> (84)
+
+So, on the one hand, I, too am loathe to over-compare media. On the
+other hand, this makes it sound like Galloway is pushing the idea that
+video games are unique in that the job of creators is to "inject the
+[art] back into the correct social milieu," as if it weren't the dream
+of many a non-games artist to ensure that their work landed correctly
+with the correct people. Like, sure, video games are different than
+other media for many reasons, but not along the axis of "do the artists
+care about impacting the right group?"
+
+> And this is the crucial detail that makes Toywar a realist game, for,
+> like a simulation or training game, Toywar constructed a meaningful
+> relationship between the affective actions of gamers and the real
+> social contexts in which they live. This is not to say that realism in
+> gaming requires an instrumental cause and effect between the gamer’s
+> thumbs on the controller and some consequence in the so-called real
+> world—not at all; that would return us to the trap of the Columbine
+> theory. (The problem of the Columbine theory is, to put it bluntly,
+> one of directionality. Realism in gaming is about the extension of
+> one’s own social life. The Columbine theory claims the reverse, that
+> games can somehow exert “realistic” effects back onto the gamer.) (78)
+
+Except, of course, it can. We know that games can have a real-life
+effect on the gamer. Galloway _just_ namedropped _Toywar_.
+
+Reading this essay feels like watching Netflix's _The Witcher_. I spend
+80% of my time confused for lack of context that I'm going to get in a
+few pages, after shuffling through contradictory and poorly-phrased
+ramblings. I just wish Galloway would put his points in order. The man
+needs to read _Clear and Simple as the Truth_.
+
+> But even so, one cannot claim there to be a fidelity of context
+> between a civilian American teenager shooting enemies in America’s
+> Army and the everyday minutiae of that civilian teenager, the
+> specificities of his or her social life in language, culture, and
+> tradition. (79)
+
+Here Galloway finally _FINALLY_ touches on the most interesting point of
+his essay, one which he circles around ad nauseum until landing on it
+here and up through the conclusion. Video games are realist when they
+provide their players with some commentary on their lives. His later
+point, that different people experience "realism" differently, is an
+insightful corollary to this.
+
+Nevertheless, I'm still raging over this essay's structure.
+
+> Instead it is a cookie-cutter repurposing of an American-style shooter
+> for the ideological needs of the Palestinian situation. The engine is
+> the same, but the narrative is different. (82)
+
+Sure, but isn't that kind of his whole point? PLEASEASE
