@@ -133,88 +133,139 @@ respect to the age-old question of what is fun.
 [TODO mention the history of entertainment as it stems from military
 research? See Gameplay mode.]
 
-# Values at Play in Military Games
 
-1. High recruitment numbers
-2. Strong intra- and inter-unit coordination and performance
-3. Limited legal liability
+# M
 
-What, then, are the values wrapped up in these games?
+Games are an illusion of the experience they mimic. This is
+characteristic of entertainment in general, where it is often not
+worthwhile to capture all of the nitty-gritty details, and indeed where
+too much attention to detail is indexed against rather than for. Mead,
+in his discussion of the military-entertainment complex, writes:
 
-First and foremost, the glorifying of war. There is implicit in a game
-that takes an uncritical stance on war that war is alright. While lots
-of subject matter can be approached neutrally, it is difficult to
-imagine a game about large-scale armed conflict that does not, one way
-or the other, take a stand. To be frank, we consider all stances to be
-deliberate pushbacks against the dominant hegemony or not. While it is
-possible to be neutral about certain aspects of one's game, the central
-narrative conceit (such as being a soldier in the military) is not
-afforded such leeway. If it is the foundation of the game, then there is
-a values judgement embedded in it. In this case, being uncritical of a
-particular central element is in fact an endorsement.
+> The problem, the military people said, was that they would get wrapped
+> up in the physics and the virtual environments would be difficult to
+> upgrade. The entertainment group offered some simple advice. Look,
+> they said, all you have to do is give people the _illusion_ of an
+> explosion happening; you don't have to do the actual physics. [CITE
+> War Play, 30]
 
-# Part 3
+The problem with this solution to the problem of realisticness is that
+it means skipping over some parts. This is fine for game developers
+working for strictly entertainment purposes, but what does it mean for
+developers working on software for the military? It means that there are
+no games that capture the nastier, or the more boring, or the more
+nuanced parts, of warfare. 
 
-In fact, these games are often guilty of bauderlerizing war. Enemies die
-in a single hit, and their corpses are conveniently garbage-collected by
-background processes when the player moves to another part of the map.
-One particularly salient quote:
+In fact, these games are often guilty of bowdlerizing war. The corpses
+of slain enemies are conveniently garbage-collected by background
+processes when the player moves to another part of the map.
+Dyer-Witherford and De Peuter write:
 
 > The miracle of Zekistan is that its streets are deserted and houses
 > empty, apart from the ubiquitous Tangos (who all die instantaneously
 > when hit). Air and artillery strikes do not hit wedding parties. There
 > is no collateral damage. War is peace. [Cite Banal War 113]
 
-There are no games that unpack the gore of armed conflict (those who are
-wounded in action), or the boredom (hurry up and wait), or the
-moment-to-moment socializing that happens whenever a large group of
-people gather together. There is no collateral damage, unless it is part
-of a scripted sequence. There is no refugee crisis. There is no holding
-your squad mate's head up as he bleeds out from a shrapnel wound
-(unless, of course, it is part of a scripted sequence). And, naturally,
-there should not be. These artifacts are ultimately games, and this
-means skipping out on certain pieces of real life. [TODO cite War Play
-comment on not simulating explosions] We have already discussed the
-reasons _not_ to simulate every minute detail within a simulation. It is
-not unreasonable, from a technical or narrative perspective, for the
-creators of these games to exclude many of these aspects of war. There
-is not a good pedagogical or mechanical reason to do so. However, we
-reiterate that in choosing to exclude these mechanics, the developers
-are making a values statement about the kinds of things they _do_ want
-to use to characterize war. 
+Aside from scripted sequences of lasting injury (which themselves are
+narratological tools, not ludological ones), it is games about war
+typically treat (allied) soldiers as infinitely repairable entities.
+Enemies are often, by contrast, treated as shooting gallery targets that
+explode into confetti with a single hit. Of course, in real life,
+the looming spectre of physical trauma is a serious concern for both
+sides [CITE something here, maybe?], but a permanent physical handicap
+to a person's in-game avatar would be a questionable design decision.
+These games seek to provide _experiences_. [TODO insert Galloway realism
+arguments here?]
 
-This makes a stark contrast to the stated and implied goals of most of
-this software: as training or recruitment tools for the military.
-However, we have seen that these games do not provide a comprehensive
-experience of the military experience: they provide a deliberately
-crafted subset of it. So it cannot be that they are tools for preparing
-soldiers to be soldiers top to bottom. It can only be that they are
-tools for preparing soldiers to be soldiers as the US military wants
-them to be, or for preparing civilians to be soldiers at the end of the
-day.
+"Hurry up and wait", an often-heard refrain of soldiers everywhere
+[CITE?], refers to the tendency of the military to rush troops to a spot
+only to have them wait around for hours or days for something to happen.
+On the one hand, this is a natural consequence of fighting a war: one
+never knows when resources will be necessary, and it is better to have
+bored troops and not need them, than no troops, no matter how
+well-entertained they may be. On the other hand, there is no reason to
+have simulations about the proverbial hurrying and waiting. There are
+few pedagogical reasons to provide players with a sense of boredom.
 
-1. Gruesome
-2. Mundane
-3. Bureaucratic
-4. Interpersonal
+Finally, there are the parts of military life that are far from unique
+to military life. Other people, and how to deal with them, is the
+(almost) universal human condition. But few military games tackle
+simulations of the behaviors of other members of the armed forces.
 
-Since a game cannot perfectly capture the totality of the experience
-that it is attempting to provide, we must examine the parts which get
-pruned (for they are as informative as the parts which are included).
+[TODO insert section about the exception that proves the rule, that
+sexual assault simulation training, and how it falls short.]
 
-We ask: do the pieces of the game which made it into the final cut
-represent the values as stated by the game's creators? Are these pieces
-in line with the values as we typically understand them, vis-a-vis those
-processes?
+This is on the one hand, presumably, a technical limitation. Artificial
+intelligence research has long sought human-level intelligence. If that
+lofty goal is ever achieved, then including "other people" in the form
+of non-player characters will be within reach. We want to emphasize,
+however, that the ability to provide a simulated experience _still_ does
+not mean that a game developer will include it. The glossing over of
+details, as we have mentioned with respect to other aspects of military
+simulation, is itself a design choice.
 
-For example, if we spend monnneeeyyy [TODO how much???] to make a game to
-teach sexual assault sensitivity to officers, but that game is
-ultimately a dialog tree with expensive voice acting and animation, and
-completely excludes role play with humans, what have we said? [CITE the
-thing from ICT].
+These design choices are not inherently questionable: they represent,
+normatively speaking, what players expect when it comes to
+military-themed games (that they are themselves part of the formation of
+this hegemony, and the rise of the military-entertainment complex in
+general, is covered at length in, e.g., Crogan's _Gameplay Mode_
+[CITE]). However, we do not argue that these decisions are questionable;
+rather, we argue that these decisions are at odds with the stated and
+implied goals of software made for the military. In particular, that
+these tools claim to be training and recruitment tools.
 
-Ultimately, we must ask what values we normally project onto the verbs
-that the game affords. Is the verb "say", or "soothe", or "shoot"?
+At first glance, games such as _America's Army_ are patently recruitment
+tools, and they in fact do lead to increased recruitment numbers
+[CITATION 100% needed]. But they are not _honest_ recruitment tools, as
+we have seen. They skip over large subsets of the lived experience of
+warfare, and we emphasize that the lack of mechanical representation of
+these ostensibly non-entertaining subsets is a means to an end beyond
+entertainment. 
+
+# Values at Play in Military Games
+
+With that in mind, let us unpack that end. What are the values that _do_
+present themselves in these games? Returning to _America's Army_, the
+first objective is recruitment. As the military-entertainment complex
+continues to spin its enormous wheels, the benefit to the public
+(entertainment) is a foil to the benefit to the military (recruits).
+People play, and this presumably leads to more soldiers.
+
+[TODO all of FSW here would be great...]
+
+The second value embedded in the military's gaming library is strong
+intra- and inter-squad coordination. Since _Marine Doom_ [CITE], a mod
+of id Software's _Doom II_ [CITE], the military has been using
+commercial off-the-shelf [CITE Gameplay Mode, I think] software as a
+tool for teaching soldiers how to communicate and coordinate with one
+another. Military-branded software is an extension of this idea---the
+military does not need high-octane simulation systems to teach soldiers
+how to act as a unit (not that, of course, the military does not fund
+high-octane simulations, see, for example [CITATION NEEDED lol]).
+
+Finally, the military offsets some of its other, non-squadron-based
+training onto digital experiences. See, for example, ELITE SHARP CTT
+[CITE], the "Emergent Leader Immersive Training Environment Sexual
+Harrassment/Assault Response & Prevention Command Team Trainer". SHARP
+is a sexual assault training module wrapped up into the well-worn track
+of interactive narrative built on dialog trees. That is, it is a visual
+novel, paid for by government money and dressed up in a camo uniform. Is
+SHARP an effective tool for preventing sexual assult and harrassment? We
+hope so, although we do not hold our breath.
+
+The question worth asking, ultimately, with regard to "effectiveness",
+is which parts the army chooses to include, and which parts to exclude.
+When it comes to the elision of the more gruesome parts of war, it is
+clear that the army may want to avoid lampshading a difficult subject.
+The ethics of this decision notwithstanding. When it comes to including
+military recruitment footage, again, the rationale is clear. But what is
+it that motivates the military to include a simulacrum of handling
+sexual assault, but not other aspects of military life, however
+troubling they may be?
+
+# Part X
+
+[TODO bridge]
 
 # Part 4
 
@@ -298,10 +349,10 @@ video game ones) and to civil affairs soldiers. Their jobs involve
 providing stability and in liasing between the US military and locals.}
 In other words, the US military is perfectly aware that games like [TODO
 which game here?] do not provide proper training on how to "handle"
-locals.\footnote{There are, of course, efforts. See, for example, the
-work of [CITE Dill paper].} Instead, these more complicated and
-less-easily-gamified experiences are wrapped up in role play drills and
-other human-human training.
+locals.\footnote{There are, of course, efforts. See, for example, Dill's
+work in simulating local elders [CITE Dill paper].} Instead, these more
+complicated and less-easily-gamified experiences are wrapped up in role
+play drills and other human-human training.
 
 If the complicated training is left to humans to provide, what then, of
 the "game" of training? We have already seen that this game provides far
@@ -328,11 +379,20 @@ we, as community members, want to award these the title of "game".
 
 # Conclusion
 
-Ultimately, it is a question of how these games get made, and for whom.
-We hope that in a society such as ours, we can safely reflect on the
-fact that the military does some deeply problematic stuff, and still
-acknowledge that games are cool. Yet we must rely on our own
-sensibilities with respect to what counts as a game made for our
-benefit, and one which serves the military machine.
+With respect to games in general, we as a community are left with a bit
+of a chip on our shoulder. After all, we know that an appreciable
+portion of modern computer technology has its origins in military
+research (see Crogan's extensive writing on the topic, for example). On
+the other hand, an origin story is not a prescriptive determination of
+what the future holds for us as an industry. And we do not necessarily
+need to eschew the military in its entirety or adopt an anti-government
+bent (although this is certainly allowed). This essay should not be seen
+as an argument against the military as an institution, nor against
+games that the military might be interested in bankrolling for its own,
+potentially questionable motives. Instead, it is a call for a critical
+examination of games whose motives sit well outside of the realm of
+entertainment, and whose mechanics are not representative of the values
+wrapped up within them. What we do with those games is an open question
+whose deeper examination this work seeks to provoke.
 
 # Bibliography

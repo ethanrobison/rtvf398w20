@@ -143,7 +143,7 @@ don't always leak in, you know?
 > gotta be where the action is." (25-26)
 
 > The entertainment group offered some simple advice. Look, they said,
-> all you have to do is give people the _illusion_ an explosion
+> all you have to do is give people the _illusion_ of an explosion
 > happening; you don't have to do the actual physics. (30)
 
 The power of entertainment people to teach the big thinkers what
